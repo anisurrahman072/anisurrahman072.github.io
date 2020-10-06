@@ -1,0 +1,393 @@
+*
+{
+	margin: 0;
+	padding: 0;
+
+}
+.carousel-item{
+	position: relative;
+}
+.back{
+	background-color: rgb(0,0,0,0.4);
+}
+.txt{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border: 2px solid white;
+	text-align: center;
+}
+.txt h1{
+	color: white;
+	font-size: 70px;
+	padding: 30px;
+}
+.aabb
+{
+	position: relative;
+}
+.ppl
+{
+	position: absolute;
+	top: 20px;
+	left: 120px;
+}
+.kkt
+{
+	position: absolute;
+	top: 45px;
+	right: 30px;
+	font-weight: bold;
+}
+i:hover
+{
+	color: lightgreen;
+}
+.para h1
+{
+	position: absolute;
+}
+.pdd
+{
+	font-weight: bolder;
+	font-size: 2.5em;
+	color: white;
+	top: 195px;
+	left: 380px;
+}
+.qdd
+{
+	/*margin-left:-31px*/
+	font-weight: bolder;
+	font-size: 5.8em;
+	color: white;
+	top: 250px;
+	left: 355px;
+	border-style: solid;
+	border-width: 1px;
+	/*text-align: center;*/
+	padding: 20px 40px 25px 40px;
+}
+.stt
+{
+	color: lightgreen;
+}
+.rdd
+{
+	/*font-weight: thin;*/
+	/*margin-right: 40px;*/
+	color: white;
+	top: 415px;
+	left: 405px;
+	font-size: 2.2em;
+}
+
+.asa
+{
+    /*left: 0px;*/
+}
+.asb
+{
+	/*left: 30px;*/
+}
+.asc
+{
+	/*left: 70px;*/
+}
+.asd
+{
+	/*right: -107px;*/
+}
+.fft:hover
+{
+	color: lightgreen;
+}
+
+.cyy
+{
+	margin-top: 65px;
+}
+.dyy
+{
+	font-size: 40px
+}
+.eyy
+{
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 20px;
+}
+.fyy
+{
+	background-color: lightgray; padding-bottom: 70px;
+}
+.gyy
+{
+	text-align: center;font-weight: bolder; margin-top: 90px; padding-top: 60px;
+}
+.hyy
+{
+	text-align: center; margin-top: 25px;
+}
+.iyy
+{
+	text-align: center;
+}
+.jyy
+{
+	padding-top: 50px;
+}
+.kyy
+{
+	position: relative; 
+	/*margin-left: 80px;*/
+}
+.opl
+{
+	position: relative;
+	margin-left: 80px;
+}
+.jji
+{
+    position: absolute;
+    top: 88px;
+    left: 80px;
+    font-size: 40px;
+}
+.qwo
+{
+	opacity: .6;
+}
+.gsh
+{
+	position: absolute;
+    top: 88px;
+    left: 180px;
+    font-size: 40px;
+}
+.gsh i:hover
+{
+	color: lightgreen;
+}
+
+a:hover
+{
+    color: lightgreen;
+}
+.kdr
+{
+	/*margin-left: 50px;*/
+}
+.dhu
+{
+    /*margin-left: 30px;*/
+}
+.sxj
+{
+    /*margin-left: 30px;*/
+}
+
+/*our portfolio*/
+.lop
+{
+    text-align: center; font-weight: bolder; margin-top: 110px;
+}
+
+
+.cff
+{
+	/*margin-left: 320px;*/
+	text-align: center;
+	margin-top: 35px;
+}
+.cff button:hover
+{
+	background-color: lightgreen;
+}
+.sff
+{
+    margin-left: -90px;
+}
+.sfg
+{
+	margin-left: 30px;
+}
+.sfh
+{
+    margin-left: 30px;	
+}
+.sfi
+{
+	margin-left: 30px;
+}
+.sfj
+{
+	margin-left: 30px;
+}
+.sfk
+{
+	margin-left: 30px;
+}
+.oaa
+{
+	margin-top: 80px;
+	/*margin-left: 51px;*/
+}
+.hju
+{
+	position: relative;
+	opacity: .3;
+}
+.yyu h1
+{
+    position: absolute;
+    top: 140px;
+    left: 100px;
+    font-weight: bolder;
+    color: lightgreen;
+    font-size: 1.7em;
+}
+/*.obu
+{
+    left:45px;
+}
+.occ
+{
+    left: 90px;
+}
+.tyo
+{
+	top: 70px;
+}*/
+
+/*our pricing*/
+.bbo
+{
+	text-align: center; font-weight: bolder; margin-top: 160px;
+}
+.bbp
+{
+	text-align: center; margin-top: 25px;
+}
+
+
+.bby:hover
+{
+	background-color: lightgreen;
+}
+.bby
+{
+	box-sizing: border-box;
+}
+.oee
+{
+	/*margin-top: 60px;*/
+}
+.off
+{
+	/*margin-top: 80px;*/
+}
+.aad
+{
+	margin-top: 80px;
+	opacity: .5;
+	position: relative;
+}
+.wer
+{
+	color: white;
+	top: -200px;
+	left: 0px;
+	font-weight: bold;
+	border-style: solid;
+	border-width: 1px;
+    border-spacing: 40px;
+    
+	
+}
+.vaa
+{
+	font-weight: bolder;text-align: center;top: 40px;
+}
+.vbb
+{
+	text-align: center; margin-top: 80px
+}
+.vcc
+{
+	text-align: center;
+}
+.vdd
+{
+	/*margin-left: 50px; margin-right: 50px;*/
+}
+.vee
+{
+	margin-top: 65px;
+}
+.vff
+{
+    font-size: 40px;
+}
+.vgg
+{
+	text-align: center;
+}
+.vhh
+{
+	font-weight: bold; font-size: 20px; margin-top: 20px;
+}
+
+
+
+
+.vvb
+{
+	font-weight: bold;
+}
+.tgh
+{
+	/*left: 50px;
+	right: 50px;*/
+}
+
+#circle {
+	width: 150px;
+	height: 150px;
+	padding: 20px;
+	border-radius: 50px;
+    border: 3px solid white;
+    margin: 0 auto 10px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 80px;
+}
+.card-body{
+	padding: 10px 30px;
+}
+.card-body p{
+	border-bottom: 2px solid white;
+
+}
+
+.project{
+	background: url(images/13.png) no-repeat;
+}
+.box1{
+	/*margin-top: 50px;*/
+	background-color: rgb(0,0,0,0.7);
+}
+.box{
+	padding: 50px;
+}
+.footer
+{
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+.footer p
+{
+	text-align: center;
+}

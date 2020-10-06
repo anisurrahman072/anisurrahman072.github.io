@@ -1,0 +1,122 @@
+.CargoVan{
+    font-size: 21px;
+    margin-top: 35px;
+}
+.Cargo{
+    color: #00BFFF;
+    margin-left: 290px;
+}
+.Van{
+    color: #FF8C00;
+}
+/*.hover1:hover {*/
+/*    color: royalblue;*/
+/*}*/
+/*.hover2:hover {*/
+/*    color: royalblue;*/
+/*}*/
+/*.hover3:hover {*/
+/*    color: royalblue;*/
+/*}*/
+/*.hover4:hover {*/
+/*    color: royalblue;*/
+/*}*/
+
+.parent:hover .hov{
+    color: royalblue;
+}
+.parent:hover .hover1{
+    color: royalblue;
+}
+.parent:hover .hover2{
+    background-color: black;
+}
+.divider {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 30px;
+    width: 30%;
+    margin-left: 37%;
+}
+.beforeFooter{
+    display: flex;
+    flex-direction: row;
+    width: 53.6%;
+    height: 76px;
+    margin-left: 22%;
+    margin-top: 16px;
+}
+.beforeFooterFirstColumn{
+    display: flex;
+    flex-direction: column;
+    width: 47%;
+    height: 100%;
+}
+.beforeFooterSecondColumn{
+    display: flex;
+    flex-direction: column;
+    width: 19.3%;
+    height: 100%;
+}
+.beforeFooterThirdColumn{
+    display: flex;
+    flex-direction: column;
+    width: 18.6%;
+    height: 100%;
+}
+.beforeFooterFourthColumn{
+    display: flex;
+    flex-direction: column;
+    width: 15.1%;
+    height: 100%;
+}
+.beforeFooterFirstColumnImage{
+    width: 39.2%;
+    height: 52%;
+}
+.beforeFooterFirstColumnText{
+    width: 48%;
+    height: 48%;
+    font-size: 0.8vw;
+}
+.beforeFooterSecondColumnShipper{
+    width: 53%;
+    height: 30%;
+    margin-top: 2.5%;
+    font-size: .8vw;
+}
+.beforeFooterSecondColumnShipperAnchor{
+    text-decoration: none;
+    color: black;
+}
+.beforeFooterFourthColumnImg{
+    width: 100%;
+    height: 45%;
+}
+.beforeFooterFourthColumnSecondRow{
+    display: flex;
+    flex-direction: row;
+ }
+.lastKargoImage{
+    width: 100%;
+    height: 100%;
+}
+.SecondGooglePlayImg{
+    width: 100%;
+    height: 100%;
+}
+.iconFacebook{
+    margin-top: 25%;
+    font-size: 1.4vw;
+    color: black;
+}
+.iconLast{
+    margin-left: 11%;
+    font-size: 1.4vw;
+    margin-top: 25%;
+    color: black;
+}
+.exceptional{
+    margin-top: 21%;
+}
